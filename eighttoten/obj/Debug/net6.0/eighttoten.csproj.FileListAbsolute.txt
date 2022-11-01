@@ -1,0 +1,15 @@
+/Users/parpanss/Desktop/rider/eighttoten/eighttoten/bin/Debug/net6.0/eighttoten
+/Users/parpanss/Desktop/rider/eighttoten/eighttoten/bin/Debug/net6.0/eighttoten.deps.json
+/Users/parpanss/Desktop/rider/eighttoten/eighttoten/bin/Debug/net6.0/eighttoten.runtimeconfig.json
+/Users/parpanss/Desktop/rider/eighttoten/eighttoten/bin/Debug/net6.0/eighttoten.dll
+/Users/parpanss/Desktop/rider/eighttoten/eighttoten/bin/Debug/net6.0/eighttoten.pdb
+/Users/parpanss/Desktop/rider/eighttoten/eighttoten/obj/Debug/net6.0/eighttoten.csproj.AssemblyReference.cache
+/Users/parpanss/Desktop/rider/eighttoten/eighttoten/obj/Debug/net6.0/eighttoten.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parpanss/Desktop/rider/eighttoten/eighttoten/obj/Debug/net6.0/eighttoten.AssemblyInfoInputs.cache
+/Users/parpanss/Desktop/rider/eighttoten/eighttoten/obj/Debug/net6.0/eighttoten.AssemblyInfo.cs
+/Users/parpanss/Desktop/rider/eighttoten/eighttoten/obj/Debug/net6.0/eighttoten.csproj.CoreCompileInputs.cache
+/Users/parpanss/Desktop/rider/eighttoten/eighttoten/obj/Debug/net6.0/eighttoten.dll
+/Users/parpanss/Desktop/rider/eighttoten/eighttoten/obj/Debug/net6.0/refint/eighttoten.dll
+/Users/parpanss/Desktop/rider/eighttoten/eighttoten/obj/Debug/net6.0/eighttoten.pdb
+/Users/parpanss/Desktop/rider/eighttoten/eighttoten/obj/Debug/net6.0/eighttoten.genruntimeconfig.cache
+/Users/parpanss/Desktop/rider/eighttoten/eighttoten/obj/Debug/net6.0/ref/eighttoten.dll
